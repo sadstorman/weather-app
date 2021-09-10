@@ -22,8 +22,6 @@ export const AddCity = ({setCiudad}) => {
         }
 
     }
-
-
     return (
         <form className="mb-3" onSubmit={handleSubmit}>
             <input
