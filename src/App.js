@@ -14,7 +14,6 @@ export const App = () => {
                     <AddCity setCiudad={setCiudad} />
                     <br />
                 </div>
-
                 <div className="row">
                     {
                         ciudad.map(ciudades => {
